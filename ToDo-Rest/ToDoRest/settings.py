@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'todo_app',
     'rest_framework',
     'corsheaders',
+    'crispy_forms',
 ]
 
 MIDDLEWARE = [
